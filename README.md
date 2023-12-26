@@ -1,4 +1,6 @@
-Hi! My name is Francisco (My friends call me Monke), I am a Software Engineering student at the University of Buenos Aires with experience working with people in various environments. My main interests are Data Science and Game Developing. 
+## Hi! My name is Francisco (My friends call me Monke🐒)
+
+I am a Software Engineering student at the University of Buenos Aires with experience working with people in various environments. My main interests are Data Science and Game Developing. 
 
 Here you can find the main projects I've completed or am currently working on.
 
