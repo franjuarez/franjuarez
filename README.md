@@ -1,6 +1,6 @@
 ## Hi! I am Francisco (Monke🐒)
 
-I am a Software Engineering student at the University of Buenos Aires with experience working with people in various environments. My main interests are Data Science and Game Developing. 
+I am a Software Engineering student at the University of Buenos Aires. My main interests are Backend web and Game Developing. 
 
 Here you can find the main projects I've completed or am currently working on.
 
